@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-11-13T14:40:50.9625449+09:00
+    description: A Helm chart for Kubernetes
+    digest: 1182774e6794ef98e4ad5a51d57a8e433474e35c3910567e41f32689441a6931
+    name: demo
+    urls:
+    - https://heessik.github.io/my-chart/stable/demo-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-13T14:40:50.9615449+09:00
